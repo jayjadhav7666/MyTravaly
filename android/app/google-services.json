@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665507003859",
+    "project_id": "mytravaly-4ae5e",
+    "storage_bucket": "mytravaly-4ae5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665507003859:android:0425b1a0ecabf4dd60c326",
+        "android_client_info": {
+          "package_name": "com.example.my_travely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCg0TdZgAK42y5PojY9VhswZP7irzDOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
